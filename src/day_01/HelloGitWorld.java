@@ -1,4 +1,4 @@
-package Tests;
+package day_01;
 
 public class HelloGitWorld {
     public static void main(String[] args) {
